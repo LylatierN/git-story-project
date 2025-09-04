@@ -1,1 +1,2 @@
-# git-story-projectonce upon a time there is a little bear.
+# git-story-project
+once upon a time there is a little bear.
